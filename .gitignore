@@ -1,0 +1,8 @@
+.DS_Store
+vendor
+.buildpath
+.project
+.settings
+*.swp
+test
+LPub3D
